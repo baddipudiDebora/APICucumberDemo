@@ -1,4 +1,4 @@
-Feature: Validating Place API's
+Feature: Validating Movie API's
 @ViewMovie @Regression
 Scenario Outline: Verify if movie is succesfully displayed in API
 	Given View Movie with "<APIKey>"  "<t>" "<y>" "<type>"
