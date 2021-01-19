@@ -20,7 +20,6 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import pojo.GetMovie;
-import pojo.Location;
 import resources.APIResources;
 import resources.TestDataBuild;
 import resources.Utils;

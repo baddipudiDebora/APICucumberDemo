@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import pojo.GetMovie;
-import pojo.Location;
+
 
 public class TestDataBuild {
 
